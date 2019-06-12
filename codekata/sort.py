@@ -1,3 +1,3 @@
-m=int(input())
-a=list(map(int,input().split()))
-print(*sorted(a),sep=' ')
+jn=int(input())
+mk=list(map(int,input().split()))
+print(*sorted(mk),sep=' ')
