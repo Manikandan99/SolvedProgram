@@ -1,0 +1,5 @@
+m,n=input().split()
+if(len(m)<=len(n)):
+  print(n)
+else:
+  print(m)
