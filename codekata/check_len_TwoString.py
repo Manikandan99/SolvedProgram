@@ -1,5 +1,5 @@
-m,n=input().split()
-if(len(m)<=len(n)):
-  print(n)
+u,v=input().split()
+if(len(u)<=len(v)):
+  print(u)
 else:
-  print(m)
+  print(v)
