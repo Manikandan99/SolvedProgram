@@ -1,4 +1,3 @@
-m,n=input().split(maxsplit=1)
-l=int(n)
-for i in range(l):
-    print(m)
+m1,m2=input().split()
+for i in range(0,int(m2)):
+    print(m1)
