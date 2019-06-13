@@ -1,3 +1,3 @@
-a=int(input())
-l=["Zero","one","Two","Three","Four","Five","Six","Seven","Eight","Nine","Ten"]
-print(l[a])
+mk=int(input())
+l=["Zero","One","Two","Three","Four","Five","Six","Seven","Eight","Nine","Ten"]
+print(l[mk])
