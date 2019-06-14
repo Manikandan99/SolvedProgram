@@ -1,2 +1,4 @@
 n1=float(input())
-print(round(n1))
+n2=float(((n1*10)%10)/10)
+n3=int(n1-n2)
+print(n3+1)
