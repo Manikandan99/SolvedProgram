@@ -1,3 +1,3 @@
 import numpy as np
-o1,o2=map(int,input().split())
-print(np.lcm(o1,o2))
+mk1,mk2=map(int,input().split())
+print(np.lcm(mk1,mk2))
