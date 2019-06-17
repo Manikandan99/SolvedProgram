@@ -1,2 +1,2 @@
 m1=input()
-print(m1.upper())
+print(m1.title())
