@@ -1,6 +1,6 @@
-m1=int(input())
-m2=input().split()
-for i in range(len(m2)-1):
-  if(m2[i]>m2[i+1]):
-    print(i)
+mk1=int(input())
+mk2=input().split()
+for j in range(len(mk2)-1):
+  if(mk2[j]>mk2[j+1]):
+    print(j)
     break
