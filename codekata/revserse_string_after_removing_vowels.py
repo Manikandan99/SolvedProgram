@@ -1,3 +1,4 @@
+m1=int(input())
 mk=input()
 l=[]
 for i in mk:
