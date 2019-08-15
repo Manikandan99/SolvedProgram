@@ -1,0 +1,5 @@
+m=int(input())
+mk=list(map(int,input().split()))
+n=min(mk)
+mk.remove(n)
+print(min(mk))
