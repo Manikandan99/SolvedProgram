@@ -13,7 +13,8 @@ public class swapping {
 	}
 }
 
-
+Input:
 10 20
+Output:
 Before swap: 10 20
 After swap: 20 10
